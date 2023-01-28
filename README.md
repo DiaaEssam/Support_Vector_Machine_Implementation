@@ -5,8 +5,8 @@ Implementing Support Vector Machine from scratch associated with the Theoretical
 </p>
 <strong>This project contains three cases for SVM.<strong/><br/>
 &emsp;1-Separable Case<br/>
-&emsp;1-Non-Separable Case<br/>
-&emsp;1-Kernel Case<br/>
+&emsp;2-Non-Separable Case<br/>
+&emsp;3-Kernel Case<br/>
 
 
 
